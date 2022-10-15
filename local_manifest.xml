@@ -3,7 +3,5 @@
 
  <!-- Trees -->
  <project path="vendor/google" name="ramimrashid/proprietary_vendor_google" remote="github" revision="lineage-18.1" />
- <!--elmyra--> 
- <project path="packages/apps/ElmyraService" name="lineageos/android_packages_apps_ElmyraService" remote="github" revision="lineage-18.1" />
  
  </manifest>
