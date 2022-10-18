@@ -3,8 +3,8 @@
 
  <!-- Trees -->
  <project path="device/google/coral" name="ramimrashid/android_device_google_coral" remote="github" revision="main" />
- <project path="vendor/google" name="ramimrashid/proprietary_vendor_google" remote="github" revision="lineage-18.1" />
- <project path="kernel/google/coral" name="ramimrashid/android_kernel_google_coral" remote="github" revision="lineage-18.1" />
+ <project path="vendor/google" name="ramimrashid/proprietary_vendor_google_coral" remote="github" revision="lineage-20" />
+ <project path="kernel/google/coral" name="ramimrashid/android_kernel_google_msm-4.14" remote="github" revision="lineage-20" />
  <!--elmyra--> 
- <project path="packages/apps/ElmyraService" name="lineageos/android_packages_apps_ElmyraService" remote="github" revision="lineage-18.1" />
+ <project path="packages/apps/ElmyraService" name="arrow/android_packages_apps_ElmyraService" remote="github" revision="lineage-20" />
  </manifest>
