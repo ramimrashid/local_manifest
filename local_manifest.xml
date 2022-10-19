@@ -7,10 +7,8 @@
  <project path="kernel/google/coral" name="ramimrashid/android_kernel_google_msm-4.14" remote="github" revision="lineage-20" />
  <!--elmyra--> 
  <project path="packages/apps/ElmyraService" name="lineageos/android_packages_apps_ElmyraService" remote="github" revision="lineage-20.0" />
- <!--remove project-->
- <remove-project name="platform/hardware/qcom/sm8150/display" />
  <!--android_hardware_qcom_sm8150_display-->
-<project path="hardware/qcom/sm8150/display" name="LineageOS/android_hardware_qcom_sm8150_display" remote="github" revision="lineage-20.0" />
+ <project path="hardware/qcom/sm8150/display" name="LineageOS/android_hardware_qcom_sm8150_display" remote="github" revision="lineage-20.0" />
  <!--android_hardware_qcom_sm8150_media-->
  <project path="hardware/qcom/sm8150/media" name="LineageOS/android_hardware_qcom_sm8150_media" remote="github" revision="lineage-20.0" />
  <!--android_hardware_qcom_sm8150_data_ipacfg-mgr-->
