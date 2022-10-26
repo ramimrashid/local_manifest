@@ -8,9 +8,8 @@
  <!--elmyra--> 
  <project path="packages/apps/ElmyraService" name="Lineageos/android_packages_apps_ElmyraService" remote="github" revision="lineage-20.0" />
  
-        <remove-project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
-        <remove-project name="platform/hardware/qcom/sm8150/media" />
-        <remove-project name="platform/hardware/qcom/wlan" />
+
+
         <remove-project name="android_vendor_qcom_opensource_display-commonsys-intf" />
       
         <remote name="los"
