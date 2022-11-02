@@ -4,7 +4,7 @@
  <!-- Trees -->
  <project path="device/google/coral" name="PixelExperience-Devices/device_google_coral" remote="github" revision="thirteen" />
  <project path="kernel/google/coral" name="PixelExperience-Devices/kernel_google_msm-4.14" remote="github" revision="thirteen" />
- <remote name="gitlab" fetch="https://gitlab.pixelexperience.org/android" />
- <project path="vendor/google/coral" name="vendor-blobs/vendor_google_coral" remote="gitlab" revision="thirteen" />
+ <remote name="g" fetch="https://gitlab.pixelexperience.org/android" />
+ <project path="vendor/google/coral" name="vendor-blobs/vendor_google_coral" remote="g" revision="thirteen" />
  
  </manifest>
