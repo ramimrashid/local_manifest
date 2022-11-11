@@ -4,7 +4,7 @@
  <!-- Trees -->
  <project path="device/google/coral" name="ramimrashid/android_device_google_coral" remote="github" revision="arrow-13.0" />
  <project path="vendor/google/coral" name="hiper25-OpenSource/android_vendor_google_coral" remote="github" revision="arrow-13.0" />
- <project path="kernel/google/coral" name="ramimrashid/device_google_coral-kernel" remote="github" revision="13" />
+ <project path="kernel/google/coral" name="StatiXOS/android_device_google_coral-kernel" remote="github" revision="tm" />
  <!--elmyra--> 
  <project path="packages/apps/ElmyraService" name="Lineageos/android_packages_apps_ElmyraService" remote="github" revision="lineage-20.0" />
  
