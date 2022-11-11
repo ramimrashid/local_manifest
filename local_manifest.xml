@@ -4,6 +4,6 @@
  <!-- Trees -->
  <project path="device/google/coral" name="LineageOS/android_device_google_coral" remote="github" revision="lineage-20" />
  <project path="vendor/google/coral" name="TheMuppets/proprietary_vendor_google_coral" remote="github" revision="lineage-20" />
- <project path="kernel/google/coral" name="LineageOS/android_kernel_google_msm-4.14" remote="github" revision="lineage-20" />
+ <project path="kernel/google/coral" name="StatiXOS/android_device_google_coral-kernel" remote="github" revision="tm" />
  
 </manifest>
