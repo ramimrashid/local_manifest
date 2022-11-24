@@ -2,6 +2,6 @@
 <manifest>
 
  <!-- Trees -->
- <project path="vendor/google" name="ramimrashid/proprietary_vendor_google" remote="github" revision="lineage-18.1" />
+ <project path="vendor/google" name="TheMuppets/proprietary_vendor_google" remote="github" revision="lineage-18.1" />
  
  </manifest>
