@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <!-- dib_gitlab -->
+ <!-- gitlab -->
 <remote name="gitlab" fetch="https://gitlab.com/ramimrashid" />
  <!-- webview -->
  <remove-project name="LineageOS/android_external_chromium-webview_prebuilt_arm64" />
