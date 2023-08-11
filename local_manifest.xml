@@ -5,6 +5,4 @@
  <project path="device/google/coral" name="ramimrashid/android_device_google_coral" remote="github" revision="arrow" />
  <project path="vendor/google/coral" name="ramimrashid/proprietary_vendor_google_coral" remote="github" revision="lineage-20" />
  <project path="kernel/google/coral" name="ramimrashid/android_kernel_google_msm-4.14" remote="github" revision="lineage-20" />
- <!--elmyra--> 
- <project path="packages/apps/ElmyraService" name="lineageos/android_packages_apps_ElmyraService" remote="github" revision="lineage-20.0" />
  </manifest>
